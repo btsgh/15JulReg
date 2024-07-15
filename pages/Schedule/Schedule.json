@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "6694d477a20b6048a9ada857_0bcfd19b-f907-408f-a4ab-60ba93ebc067",
+  "gitSyncId": "6694e200a20b6048a9ada878_72b1cbd7-a3fe-40b6-abbb-ba9c366a1bd7",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 580,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 670,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1160,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 66,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 89,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Schedule",
+    "slug": "schedule"
   }
 }
