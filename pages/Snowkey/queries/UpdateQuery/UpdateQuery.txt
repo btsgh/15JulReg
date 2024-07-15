@@ -1,0 +1,5 @@
+UPDATE PUBLIC.TEST SET
+		VARCHAR_COL = '{{update_form.fieldState.VARCHAR_COL.isVisible ? update_form.formData.VARCHAR_COL : update_form.sourceData.VARCHAR_COL}}',
+		DATE_COL = '{{update_form.fieldState.DATE_COL.isVisible ? update_form.formData.DATE_COL : update_form.sourceData.DATE_COL}}',
+    BOOLEAN_COL = '{{update_form.fieldState.BOOLEAN_COL.isVisible ? update_form.formData.BOOLEAN_COL : update_form.sourceData.BOOLEAN_COL}}'
+WHERE INTEGER_COL = {{data_table.selectedRow.INTEGER_COL}};

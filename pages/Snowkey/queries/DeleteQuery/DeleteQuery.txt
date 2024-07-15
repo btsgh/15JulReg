@@ -1,0 +1,2 @@
+DELETE FROM PUBLIC.TEST
+  WHERE INTEGER_COL = {{data_table.triggeredRow.INTEGER_COL}};
