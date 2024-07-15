@@ -13,7 +13,7 @@
   "icon": "saturn",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Fire",
       "isDefault": true
     },
     {
@@ -30,6 +30,14 @@
     },
     {
       "id": "1",
+      "isDefault": false
+    },
+    {
+      "id": "snow1",
+      "isDefault": false
+    },
+    {
+      "id": "Snowkey",
       "isDefault": false
     }
   ],

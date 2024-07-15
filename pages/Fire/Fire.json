@@ -1,11 +1,12 @@
 {
   "gitSyncId": "6694d477a20b6048a9ada857_0bcfd19b-f907-408f-a4ab-60ba93ebc067",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +27,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Fire",
+    "slug": "fire"
   }
 }
