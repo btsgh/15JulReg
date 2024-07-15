@@ -13,8 +13,28 @@
   "icon": "saturn",
   "pages": [
     {
+      "id": "Table2",
+      "isDefault": false
+    },
+    {
+      "id": "Table Edit",
+      "isDefault": false
+    },
+    {
+      "id": "Table",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
