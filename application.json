@@ -13,9 +13,6 @@
   "icon": "saturn",
   "pages": [
     {
-      "isDefault": false
-    },
-    {
       "id": "Page1",
       "isDefault": true
     },

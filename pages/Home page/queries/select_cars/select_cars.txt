@@ -1,1 +1,0 @@
-select * from maintenance_car ORDER BY vin ASC LIMIT 5 offset {{(List.pageNo - 1) * 5}};
