@@ -13,15 +13,6 @@
   "icon": "saturn",
   "pages": [
     {
-      "id": "Table2",
-      "isDefault": false
-    },
-    {
-      "id": "Table Edit",
-      "isDefault": false
-    },
-    {
-      "id": "Table",
       "isDefault": false
     },
     {
