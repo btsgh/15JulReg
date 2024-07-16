@@ -13,20 +13,19 @@
   "icon": "saturn",
   "pages": [
     {
-      "id": "Schedule",
-      "isDefault": false
-    },
-    {
-      "id": "New vehicle",
-      "isDefault": false
-    },
-    {
-      "id": "Home page",
       "isDefault": false
     },
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
