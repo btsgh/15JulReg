@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66b085544a13a56ff1e5ebec_b5621d6e-db45-4064-a232-40bd1591c0f7",
+  "id": "Fire_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Fire",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
